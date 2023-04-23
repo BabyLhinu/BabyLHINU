@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there let's show your love or hate with us👋
+
+twitter.com/BabyLHINU
 
 <!--
 **BabyLhinu/BabyLHINU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
